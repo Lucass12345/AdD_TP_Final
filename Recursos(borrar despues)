@@ -1,0 +1,13 @@
+Cosas que se pueden hacer:
+Buscar ralaciones entre si es acustica es mas propensa a ser bailable
+
+
+Descripcion del datafdrame:
+https://developer.spotify.com/documentation/web-api/reference/get-audio-features
+
+Time signature:
+3: Compás de 3/4, típico de valses y ciertas baladas, que tiene tres tiempos por compás.
+4: Compás de 4/4, el más común en la música pop, rock y electrónica, con cuatro tiempos por compás.
+5: Compás de 5/4, menos frecuente, usado a veces en jazz o composiciones experimentales.
+6: Compás de 6/4 o 6/8, que puede encontrarse en baladas lentas y algunas piezas clásicas.
+7: Compás de 7/4, muy inusual y común en estilos progresivos o complejos.
